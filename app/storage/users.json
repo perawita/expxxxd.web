@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Admin",
+        "email": "admin@expired.com",
+        "password": "$2y$10$quMjbCypKTFy02ubdFNBZuEyAgJg0m5JTZJoosF.5fhtcZT9NzBmm",
+        "role": "admin",
+        "saldo": 6000,
+        "id": "8538"
+    }
+]
